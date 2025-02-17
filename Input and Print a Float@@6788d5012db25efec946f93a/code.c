@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {float a;
-    printf("Enter value of a :");
+    printf("");
     scanf("%f",&a);
     retuen 0;
 }
